@@ -2,7 +2,7 @@
   "update_url": "https://clients2.google.com/service/update2/crx",
   "manifest_version": 2,
   "name": "Time CRP",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Times domInteractive, domContentLoaded, and complete time.",
   "icons": {
     "16": "icon16.png",
